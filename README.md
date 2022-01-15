@@ -1,3 +1,3 @@
 # KingsCup
 Web Version of Drinking Game
-Link: asdfasdf
+Link: https://kingsccup.herokuapp.com/
